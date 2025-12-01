@@ -85,7 +85,7 @@ main {
       img {
         max-height: 300px;
         padding-top: 1rem;
-        object-fit: cover;
+        object-fit: contain;
     }
 
     &:hover {
@@ -116,6 +116,5 @@ main {
     img {
         max-height: 300px;
         padding-top: 1rem;
-        object-fit: cover;
     }
 }
